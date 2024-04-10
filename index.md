@@ -1,3 +1,5 @@
 ## Douglas Mbura - Official GitHub Page
-________________________________________
-Coming soon------------------------------
+
+:bulb: **Tip:** Remember to appreciate the little things in life.
+
+Copyright (©) — &copy;

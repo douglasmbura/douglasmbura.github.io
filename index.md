@@ -3,25 +3,80 @@ layout: default
 title: "Home"
 ---
 
-<div align="center">
+<!-- Custom inline style for better centering and layout -->
+<style>
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #007acc;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 20px;
+  font-weight: 600;
+  font-size: 18px;
+  transition: 0.3s;
+}
+.navbar a:hover {
+  color: #ffe082;
+}
 
-👋🏽 Hello, I'm Douglas Mbura
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 50px;
+}
 
-<img src="assets/profile.jpg" alt="Douglas Mbura" width="200" style="border-radius: 50%; margin-top: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+.hero img {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  margin-top: 15px;
+}
 
-<p>
-I'm an <b>Environmental & Biosystems Engineer</b> specializing in <b>Water, Sanitation, and Irrigation</b> systems in Kenya.<br>
-I lead Indigenous-led <b>AI, Machine Learning, and Bioacoustics</b> projects with the <b>Geo Indigenous Alliance</b>.
-</p>
+.btn {
+  display: inline-block;
+  padding: 10px 18px;
+  background-color: #007acc;
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 12px;
+}
+.btn:hover {
+  background-color: #005fa3;
+}
+</style>
 
-[Explore My Work](#projects){: .btn .btn-primary } 
-[About Me](/about){: .btn }
+<!-- ✅ Navigation Menu -->
+<div class="navbar">
+  <a href="/">Home</a>
+  <a href="/about">About</a>
+</div>
 
+<!-- ✅ Hero Section -->
+<div class="hero">
+  <img src="assets/profile.jpg" alt="Douglas Mbura Profile Photo" />
+  <h1>👋🏽 Hello, I'm <strong>Douglas Mbura</strong></h1>
+  <p>
+    I'm an <b>Environmental & Biosystems Engineer</b> specializing in <b>Water, Sanitation, and Irrigation</b> systems in Kenya.<br>
+    I lead Indigenous-led <b>AI, Machine Learning, and Bioacoustics</b> projects with the <b>Geo Indigenous Alliance</b>.
+  </p>
+  <a href="/about" class="btn">Learn More About Me →</a>
 </div>
 
 ---
 
-## 💧 Ongoing Projects
+## 💧 Current Projects
 
 ### **1️⃣ Nyamira Water Treatment Plants**
 Construction of 5 treatment plants and a 177.2 km network serving 12,651 households.  

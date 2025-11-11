@@ -5,9 +5,9 @@ title: "Home"
 
 <div align="center">
 
-# 👋🏽 Hello, I'm **Douglas Mbura**
+👋🏽 Hello, I'm Douglas Mbura
 
-<img src="assets/profile.jpg" alt="Douglas Mbura" width="180" style="border-radius: 50%; margin-top: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+<img src="assets/profile.jpg" alt="Douglas Mbura" width="200" style="border-radius: 50%; margin-top: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
 <p>
 I'm an <b>Environmental & Biosystems Engineer</b> specializing in <b>Water, Sanitation, and Irrigation</b> systems in Kenya.<br>

@@ -3,14 +3,7 @@ description: "Engineer | Data Coordinator | Indigenous AI Advocate"
 theme: jekyll-theme-cayman
 show_downloads: false
 
-# Add navigation menu links
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about
-
-# Enable GitHub Pages plugins
+# Enable plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-feed

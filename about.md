@@ -3,13 +3,61 @@ layout: default
 title: "About"
 ---
 
-# 👨🏽‍💻 About Me
+<style>
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #007acc;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 20px;
+  font-weight: 600;
+  font-size: 18px;
+  transition: 0.3s;
+}
+.navbar a:hover {
+  color: #ffe082;
+}
+.about-container {
+  text-align: center;
+}
+.about-container img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  margin: 10px 0 20px;
+}
+.social-icons a {
+  margin: 0 10px;
+  font-size: 1.8em;
+  color: #007acc;
+  text-decoration: none;
+}
+.social-icons a:hover {
+  color: #005fa3;
+}
+</style>
 
-<div align="center">
-  <img src="assets/profile.jpg" alt="Douglas Mbura" width="200" style="border-radius: 50%; margin: 10px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+<!-- ✅ Navigation Menu -->
+<div class="navbar">
+  <a href="/">Home</a>
+  <a href="/about">About</a>
 </div>
 
-I'm **Douglas Mbura**, an **Environmental & Biosystems Engineer** and **Data Coordinator** passionate about applying modern technology to Indigenous-led research, water engineering, and AI for conservation.
+<div class="about-container">
+  <img src="assets/profile.jpg" alt="Douglas Mbura" />
+  <h1>👨🏽‍💻 About Me</h1>
+  <p>
+    I'm <b>Douglas Mbura</b>, an <b>Environmental & Biosystems Engineer</b> and <b>Data Coordinator</b> dedicated to advancing Indigenous-led AI, water engineering, and environmental innovation.
+  </p>
+</div>
 
 ---
 
@@ -24,8 +72,8 @@ I'm **Douglas Mbura**, an **Environmental & Biosystems Engineer** and **Data Coo
 - Water Supply & Sanitation Infrastructure  
 - GIS, Remote Sensing, and Mapping  
 - Machine Learning & AI for Conservation  
-- Indigenous Data Governance and Ethical AI  
-- Fieldwork coordination and community training  
+- Indigenous Data Governance  
+- Fieldwork Coordination and Training  
 
 ---
 
@@ -39,24 +87,17 @@ Founder of **Pollen Pulse Hives**, producing **100% pure natural honey** in Nyam
 
 ## 🌐 Connect With Me
 
-<div align="center" style="font-size: 1.5em;">
-
-<a href="mailto:douglas.mbura@gmail.com" target="_blank" style="margin: 0 10px;">
-  <i class="fa fa-envelope"></i>
-</a>
-
-<a href="https://linkedin.com/in/douglas-mbura" target="_blank" style="margin: 0 10px;">
-  <i class="fa fa-linkedin"></i>
-</a>
-
-<a href="https://twitter.com/BizBoomSecrets" target="_blank" style="margin: 0 10px;">
-  <i class="fa fa-twitter"></i>
-</a>
-
+<div class="social-icons" align="center">
+  <a href="mailto:douglas.mbura@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+  <a href="https://linkedin.com/in/douglas-mbura" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+  <a href="https://twitter.com/BizBoomSecrets" target="_blank"><i class="fa fa-twitter"></i></a>
 </div>
 
 ---
 
 <div align="center">
-<a href="/" class="btn">⬅️ Back to Home</a>
+  <a href="/" class="btn">⬅️ Back to Home</a>
 </div>
+
+<!-- Font Awesome Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">

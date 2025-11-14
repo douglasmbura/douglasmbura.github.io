@@ -74,30 +74,7 @@ title: "Home"
 My work has connected me with communities including the Quilombola and Suruí Paiter in Brazil; the Lakota community in the United States; the Shuar community in the Ecuadorian Amazon and the Samburu community in Northern Kenya - where I spent over a year living alongside the community and the elephants in the Namunyak Conservancy, conducting intensive fieldwork, deploying sensors, and supporting Indigenous-led wildlife monitoring. </p>
  
   <a href="/about" class="btn">Learn More About Me →</a>
-</div>
-
----
-
-## 💧 Current Projects
-
-### **1️⃣ Nyamira Water Treatment Plants**
-Construction of 5 treatment plants and a 177.2 km network serving 12,651 households.  
-**Budget:** KES 750M (USD 6M)
-
-### **2️⃣ UNCDF – Decentralized Wastewater Treatment Facilities (DTFs)**
-Proposal to establish 8 DTFs across Nyamira County, supporting SDG 6 & 11.
-
-### **3️⃣ Ltome–Katip Indigenous AI Project**
-Indigenous-led bioacoustics research analyzing elephant and rat communication patterns using AudioMoths and AI tools.
-
----
-
-## 🧠 Key Skills
-- GIS, Remote Sensing & Mapping 
-- Water Supply & Sanitation Engineering  
-- Indigenous Data & AI Ethics  
-- Bioacoustics & Machine Learning  
-- Project Management & Implementation  
+</div> 
 
 ---
 
@@ -109,5 +86,5 @@ Indigenous-led bioacoustics research analyzing elephant and rat communication pa
 ---
 
 <div align="center">
-© {{ site.time | date: "%Y" }} Douglas Mbura · Built with ❤️ using <a href="https://pages.github.com/">GitHub Pages</a>
+© {{ site.time | date: "%Y" }} Douglas Mbura · Built with ❤️ using <a>GitHub Pages</a>
 </div>

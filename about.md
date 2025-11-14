@@ -77,7 +77,7 @@ title: "About"
 ---
 ## 🛠️ Projects
 <h3>💧 Nyamira County Water Infrastructure Projects</h3>
-<h3>🐾 Indigenous-Led Projects</h3>h3>
+<h3>🐾 Indigenous-Led Projects</h3>
 - Ltome-Katip Project:Indigenous-led bioacoustics research analyzing elephant and rat communication patterns using AudioMoths and AI tools. 
 <h3>💼 Consultancy Work</h3>
 

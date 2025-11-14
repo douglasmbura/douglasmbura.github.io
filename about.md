@@ -76,14 +76,14 @@ title: "About"
 
 ---
 ## 🛠️ Projects
-💧 Nyamira County Water Infrastructure Projects
-🐾 Indigenous-Led Projects
+###💧 Nyamira County Water Infrastructure Projects
+###🐾 Indigenous-Led Projects
 - Ltome-Katip Project:Indigenous-led bioacoustics research analyzing elephant and rat communication patterns using AudioMoths and AI tools. 
-💼 Consultancy Work
+###💼 Consultancy Work
 
 ---
 
-## 🐝 Side Venture — *Pollen Pulse Hives*
+## 💡 Side Venture — *Pollen Pulse Hives*
 Founder of **Pollen Pulse Hives**, producing **100% pure natural honey** in Nyamira County, Kenya.  
 📞 +254 100 306 491  
 ✉️ pollenpulsehives.pph@gmail.com  

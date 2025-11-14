@@ -101,7 +101,7 @@ Indigenous-led bioacoustics research analyzing elephant and rat communication pa
 
 <div align="center">
 <h3>🧭 My Philosophy</h3>
-<blockquote>“Blending Indigenous knowledge and modern science to build resilient, sustainable communities.”</blockquote>
+<blockquote>“I am dedicated to building impactful solutions that address the needs of underserved communities. My work is grounded in user-centered and participatory design, ensuring that the people closest to the challenges play an active role in shaping the outcomes. I believe in simplicity, and measurable results—creating solutions that are not only functional, but truly transformative.”</blockquote>
 </div>
 
 ---

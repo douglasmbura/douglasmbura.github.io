@@ -53,7 +53,7 @@ title: "About"
 
 <div class="about-container">
   <img src="assets/profile2.jpg" alt="Douglas Mbura" />
-  <h2>👨 About Me</h2>
+  <h2> About Me</h2>
   <p>
     I'm <b>Douglas Mbura</b>, an <b>Environmental & Biosystems Engineer</b> and <b>GIS Specialiast</b> dedicated to advancing Indigenous-led AI, Water Engineering, and Environmental Innovation.
   </p>
@@ -76,10 +76,10 @@ title: "About"
 
 ---
 ## 🛠️ Projects
-###💧 Nyamira County Water Infrastructure Projects
-###🐾 Indigenous-Led Projects
+**💧 Nyamira County Water Infrastructure Projects
+*🐾 Indigenous-Led Projects
 - Ltome-Katip Project:Indigenous-led bioacoustics research analyzing elephant and rat communication patterns using AudioMoths and AI tools. 
-###💼 Consultancy Work
+*💼 Consultancy Work
 
 ---
 

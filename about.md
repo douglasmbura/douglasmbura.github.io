@@ -91,7 +91,12 @@ title: "About"
 
 ---
 
-## 💡 Side Venture — *Pollen Pulse Hives*
+## 💡 Side Ventures 
+Founder of **Geo-Appsmith**, creating jaw-dropping **web-based GIS Tools**.  
+📞 +254 720 616 945  
+✉️ geoappsmith@gmail.com  
+🐦 [@geoappsmith](https://twitter.com/geoappsmith)
+
 Founder of **Pollen Pulse Hives**, producing **100% pure natural honey** in Nyamira County, Kenya.  
 📞 +254 100 306 491  
 ✉️ pollenpulsehives.pph@gmail.com  

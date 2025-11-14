@@ -91,7 +91,7 @@ Indigenous-led bioacoustics research analyzing elephant and rat communication pa
 ---
 
 ## 🧠 Key Skills
-- GIS & Remote Sensing  
+- GIS, Remote Sensing & Mapping 
 - Water Supply & Sanitation Engineering  
 - Indigenous Data & AI Ethics  
 - Bioacoustics & Machine Learning  

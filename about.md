@@ -55,7 +55,7 @@ title: "About"
   <img src="assets/profile.jpg" alt="Douglas Mbura" />
   <h1>👨🏽‍💻 About Me</h1>
   <p>
-    I'm <b>Douglas Mbura</b>, an <b>Environmental & Biosystems Engineer</b> and <b>Data Coordinator</b> dedicated to advancing Indigenous-led AI, water engineering, and environmental innovation.
+    I'm <b>Douglas Mbura</b>, an <b>Environmental & Biosystems Engineer</b> and <b>GIS Specialiast</b> dedicated to advancing Indigenous-led AI, Water Engineering, and Environmental Innovation.
   </p>
 </div>
 
@@ -70,10 +70,9 @@ title: "About"
 
 ## 🏗️ Professional Focus
 - Water Supply & Sanitation Infrastructure  
-- GIS, Remote Sensing, and Mapping  
-- Machine Learning & AI for Conservation  
-- Indigenous Data Governance  
-- Fieldwork Coordination and Training  
+- GIS, Remote Sensing, and Mapping (With focus on Web GIS Technologies) 
+- Bio-Acaustics, Machine Learning & AI for Conservation  
+- Indigenous Data Governance    
 
 ---
 

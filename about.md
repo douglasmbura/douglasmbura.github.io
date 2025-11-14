@@ -68,6 +68,14 @@ title: "About"
 
 ---
 
+## 📚 Key Skills
+- **Water Supply & Sanitation Engineering**
+- **GIS, Remote Sensing & Mapping**
+- **Water Supply & Sanitation Engineering**
+- **Bioacoustics & Machine Learning**
+- **Indigenous Data & AI Ethics**
+- **Project Management & Implementation**
+
 ## 🏗️ Professional Focus
 - Water Supply & Sanitation Infrastructure  
 - GIS, Remote Sensing, and Mapping (With focus on Web GIS Technologies) 

@@ -70,6 +70,7 @@ title: "Home"
   <p>
     I'm an <b>Environmental & Biosystems Engineer</b> specializing in <b>Water, Sanitation, and Irrigation</b> systems in Kenya.<br>
     I lead Indigenous-led <b>AI, Machine Learning, and Bioacoustics</b> projects with the <b>Geo Indigenous Alliance</b>.
+I am an Environmental & Biosystems Engineer specializing in Water, Sanitation, and Irrigation systems in Kenya.Alongside my engineering work, I lead Indigenous-led initiatives in Artificial Intelligence, Machine Learning, and Bioacoustics with the Geo Indigenous Alliance. My work bridges technical engineering expertise with community-driven, culturally grounded approaches to ecological monitoring, conservation, and climate resilience.
   </p>
   <a href="/about" class="btn">Learn More About Me →</a>
 </div>

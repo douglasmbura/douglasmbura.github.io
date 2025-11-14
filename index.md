@@ -68,9 +68,8 @@ title: "Home"
   <img src="assets/profile.jpg" alt="Douglas Mbura Profile Photo" />
   <h1>👋🏽 Hello, I'm <strong>Douglas Mbura</strong></h1>
   <p>
-    I'm an <b>Environmental & Biosystems Engineer</b> specializing in <b>Water, Sanitation, and Irrigation</b> systems in Kenya.<br>
-    I lead Indigenous-led <b>AI, Machine Learning, and Bioacoustics</b> projects with the <b>Geo Indigenous Alliance</b>.
-I am an Environmental & Biosystems Engineer specializing in Water, Sanitation, and Irrigation systems in Kenya.Alongside my engineering work, I lead Indigenous-led initiatives in Artificial Intelligence, Machine Learning, and Bioacoustics with the Geo Indigenous Alliance. My work bridges technical engineering expertise with community-driven, culturally grounded approaches to ecological monitoring, conservation, and climate resilience.
+I am an <b> Environmental & Biosystems Engineer </b> specializing in Water, Sanitation, and Irrigation systems in Kenya. 
+<b> Alongside my engineering work, I lead Indigenous-led initiatives in Artificial Intelligence, Machine Learning, and Bioacoustics with the Geo Indigenous Alliance. My work bridges technical engineering expertise with community-driven, culturally grounded approaches to ecological monitoring, conservation, and climate resilience. </b>
   </p>
   <a href="/about" class="btn">Learn More About Me →</a>
 </div>

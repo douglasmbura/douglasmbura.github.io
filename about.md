@@ -52,7 +52,7 @@ title: "About"
 </div>
 
 <div class="about-container">
-  <img src="assets/profile.jpg" alt="Douglas Mbura" />
+  <img src="assets/profile2.jpg" alt="Douglas Mbura" />
   <h1>👨🏽‍💻 About Me</h1>
   <p>
     I'm <b>Douglas Mbura</b>, an <b>Environmental & Biosystems Engineer</b> and <b>GIS Specialiast</b> dedicated to advancing Indigenous-led AI, Water Engineering, and Environmental Innovation.

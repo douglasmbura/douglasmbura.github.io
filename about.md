@@ -85,6 +85,13 @@ title: "About"
 ---
 ## 🛠️ Projects
 <h4>💧 Nyamira County Water Infrastructure Projects</h4>
+### 💧 Water Infrastructure Projects (By Financial Year)
+
+| **FY2024/2025** | **FY2023/2024** | **FY2022/2023** | **FY2021/2022** |
+|-----------------|------------------|------------------|------------------|
+| • Biticha Borehole Project<br>• Egechini Borehole Project<br>• Ikonge Borehole Project<br>• Keginga Borehole Project<br>• Moruga Borehole Project<br>• Riomego Borehole Project<br>• Nyameru Borehole Project | • Rehabilitation of Bogwendo Borehole Project<br>• Rehabilitation of Nyariacho Borehole Project<br>• Drilling of Nyankongo-Kiabonyoru Borehole<br>• Rehabilitation & Expansion of Kemera Water Project | – | – |
+| – | – | • Gesima Borehole Project<br>• Bocharia Borehole Project<br>• Gesore Borehole Project<br>• Girigiri Borehole Project<br>• Ikobe Borehole Project<br>• Isoge Borehole Project<br>• Kiangombe Borehole Project<br>• Kerongeta Borehole Project<br>• Marara Borehole Project<br>• Nyabweri Borehole Project<br>• Nyakegogi Borehole Project<br>• Sere Borehole Project<br>• Nyankongo Borehole Project | – |
+
 <h4>🐾 Indigenous-Led Projects</h4>
 - Ltome-Katip Project:Indigenous-led bioacoustics research analyzing elephant and rat communication patterns using AudioMoths and AI tools. 
 <h4>💼 Consultancy Work</h4>
